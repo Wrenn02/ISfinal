@@ -1,0 +1,52 @@
+#top{
+    text-decoration: underline;
+}
+
+h2{
+    text-decoration: underline;
+    font-size: x-large;
+}
+
+.EmphasizedText{
+   font-size: larger;
+   font-weight: bold;
+   color: rgb(8, 96, 82);
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(93, 8, 117);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+body{
+    background-color: rgb(240, 232, 221);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 5px solid black;
+    margin: 25px;
+}
+ul{
+    list-style-position: inside;
+}
+ol{
+    list-style-position: inside;
+}
